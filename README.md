@@ -15,6 +15,7 @@ A simple Student Management System built using Java that allows administrators a
 
 
  **TECK STACK**:
+ 
  FRONTEND:HTML,CSS,JAVASCRIPT
  
  BACKEND:Core Java
